@@ -51,20 +51,14 @@ Created dashboards that showed:
 
 ## Findings
 
-### 1. 
+### 1. KPIs AND PROFIT/LOSS RATE.
 ![KPIs and profit/loss rate](Dashboard%201.png)
 
 
-**Key Insight:** Furniture generated the second-highest revenue but delivered only $18K in profit due to a catastrophic 33.7% loss rate.
+**Key Insight:** Furniture generated the least amount of profit only $18K and this is due to due to a bad 33.7% loss rate. Therefore we must look into what exactly about the furniture is causing the loss rate.
 
 ### 2. 💸 Discount Strategy Failure
-
-| Discount Level | Orders | Loss Rate | Margin |
-|---------------|--------|-----------|--------|
-| No Discount | 2,847 | 8.2% | 18.5% |
-| Low (1-15%) | 3,219 | 15.3% | 14.2% |
-| Medium (16-30%) | 2,561 | 28.4% | 8.1% |
-| **High (31%+)** | 1,367 | **67.2%** 🔴 | **-12.3%** 🔴 |
+![KPIs and profit/loss rate](Dashboard%202.png)
 
 **Key Insight:** Orders with 30%+ discounts have a 67% probability of losing money. High discounts systematically destroy profitability.
 
