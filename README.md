@@ -52,7 +52,7 @@ Created dashboards that showed:
 ## Findings
 
 ### 1. 
-
+![KPIs and profit/loss rate](Dashboard%201.png)
 
 
 **Key Insight:** Furniture generated the second-highest revenue but delivered only $18K in profit due to a catastrophic 33.7% loss rate.
