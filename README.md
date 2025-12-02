@@ -51,15 +51,9 @@ Created dashboards that showed:
 
 ## Findings
 
-### 1. 🚨 The Furniture Crisis
+### 1. 
 
-| Metric | Technology | Office Supplies | **Furniture** |
-|--------|-----------|----------------|--------------|
-| **Orders** | 1,845 | 6,022 | 2,119 |
-| **Revenue** | $836K | $719K | $742K |
-| **Profit** | $145K | $122K | **$18K** |
-| **Margin** | 17.4% | 17.0% | **2.5%** 🔴 |
-| **Loss Rate** | 14.7% | 14.7% | **33.7%** 🔴 |
+
 
 **Key Insight:** Furniture generated the second-highest revenue but delivered only $18K in profit due to a catastrophic 33.7% loss rate.
 
